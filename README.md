@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=daninator1&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=daninator1&redirect=true)
+
 <!--
 **Daninator1/Daninator1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
