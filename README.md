@@ -1,4 +1,4 @@
-<center>
+<div class="d-flex flex-items-center">
 
 # Hi, I'm Daniel! 👋👨‍💻
 
@@ -43,4 +43,4 @@
 
 [![Years Badge](https://badges.pufler.dev/years/Daninator1)](https://badges.pufler.dev)
 
-</center>
+</div>
