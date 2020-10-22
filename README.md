@@ -37,8 +37,6 @@
 
 ![Daninator1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daninator1&show_icons=true&theme=radical)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=daninator1&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=daninator1&redirect=true)
-
 [![Visits Badge](https://badges.pufler.dev/visits/Daninator1/Daninator1)](https://badges.pufler.dev)
 
 [![Years Badge](https://badges.pufler.dev/years/Daninator1)](https://badges.pufler.dev)
