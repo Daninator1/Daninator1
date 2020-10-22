@@ -2,7 +2,7 @@
 # <div align="center">Hi, I'm Daniel! 👋</div>
 <p align="center">⚡ Currently working as a full-stack developer 👨‍💻</p>
 
-## Languages
+## <div align="center">Languages</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-## Frameworks
+## <div align="center">Frameworks</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-## Databases
+## <div align="center">Databases</div>
 
 <p align="center">
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -31,7 +31,7 @@
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-## DevOps
+## <div align="center">DevOps</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
