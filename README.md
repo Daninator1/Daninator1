@@ -1,6 +1,6 @@
 
 # <div align="center">Hi, I'm Daniel! 👋</div>
-<p align="center">⚡ Currently working as a full-stack developer 👨‍💻</p>
+<p align="center">⚡ Currently working as a full-stack software developer 👨‍💻</p>
 
 ## <div align="center">Languages</div>
 
